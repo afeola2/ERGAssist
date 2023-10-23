@@ -1,4 +1,4 @@
-# ERGAssist
+# ERGAssist for PCs
 
 ERGAssist Executable
 
